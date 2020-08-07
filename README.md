@@ -40,14 +40,6 @@
 
 ---
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
----
-
 <img align="left" alt="Thenuka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ThenukaDinu&show_icons=true&hide_border=true" />
 
 [website]: http://www.thenukadinu.tech
