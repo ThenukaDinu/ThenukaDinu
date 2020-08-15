@@ -7,6 +7,9 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and workout
 
+### Spotify Playing 🎧
+[<img src="https://novatorem.thenukadinujayarathna.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/6qztdbb79ygt30nqcusrsk5yx)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
