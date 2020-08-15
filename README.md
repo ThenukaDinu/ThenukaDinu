@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to travel and workout
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem.thenukadinujayarathna.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/6qztdbb79ygt30nqcusrsk5yx)
+[<img src="https://novatorem.thenukadinujayarathna.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/p2oc13yjv2trbvfhv0ktsoa5o)
 
 ### Connect with me:
 
