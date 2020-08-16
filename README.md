@@ -2,8 +2,9 @@
 
 ## I'm a Student, Developer, Traveler!
 
-- 🔭 I’m currently working on a ASP.NET Projects [website]!
+- 🔭 I’m currently working on a ASP.NET Projects and laravel projects
 - 🌱 I’m currently learning everything 🤣
+- 👀 I’m always trying to use architectures and design patterns to build scalable applications
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and workout
 
