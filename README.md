@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a ASP.NET core Projects and react projects
 - 🌱 I’m currently learning everything 🤣
 - 👀 I’m always trying to use architectures and design patterns to build scalable applications
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and workout
 
 ### Spotify Playing 🎧
