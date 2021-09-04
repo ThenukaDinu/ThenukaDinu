@@ -1,4 +1,4 @@
-### Hi there, I'm Thenuka - aka [linkedin][website] 👋
+### Hi there, I'm Thenuka - aka [linkedin][https://www.linkedin.com/in/thenukadinu/] 👋
 
 ## I'm a Student, Developer, Traveler!
 
