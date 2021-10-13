@@ -1,8 +1,8 @@
 ### Hi there, I'm Thenuka - aka [linkedin](https://www.linkedin.com/in/thenukadinu) 👋
 
-## I'm a Student, Developer, Traveler!
+## I'm a Student, Developer, Traveler!!!
 
-- 🔭 I’m currently working on a ASP.NET core Projects and react projects
+- 🔭 I’m currently working on a .NET core Projects, Vue and React projects
 - 🌱 I’m currently learning everything 🤣
 - 👀 I’m always trying to use architectures and design patterns to build scalable applications
 - 🥅 2021 Goals: Contribute more to Open Source projects
