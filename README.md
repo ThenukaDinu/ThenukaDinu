@@ -5,11 +5,13 @@
 - 🔭 I’m currently working on a .NET core Projects, Vue and React projects
 - 🌱 I’m currently learning everything 🤣
 - 👀 I’m always trying to use architectures and design patterns to build scalable applications
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel, workout, netflix and video games.
 
+<!---
 ### Spotify Playing 🎧
 [<img src="https://novatorem.thenukadinujayarathna.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/p2oc13yjv2trbvfhv0ktsoa5o)
+-->
 
 ### Connect with me:
 
